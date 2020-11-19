@@ -1,9 +1,9 @@
-#Tecnologico de Costa Rica
+# Tecnologico de Costa Rica
 
 ## CRUD_APP - INVESTIGACIÓN II
 
-Autores: Jose Ocampo 
-         Rodrigo Espinach
+Autores: Jose Ocampo /n
+         Rodrigo Espinach /n
          Eric Alpizar
 
 Para esta investigación se nos asignó hacer una aplicación CRUD haciendo uso de MongoDB, un gestor de bases de datos NOSQL. Esta aplicación debía ser capaz de hacer un buen manejo de los datos, permitir una interacción fluida con el usuario y mantener la consistencia de la base de datos. 
